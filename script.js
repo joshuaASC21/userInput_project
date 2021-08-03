@@ -29,9 +29,6 @@ submitButton.onclick= function(event){
     }
 
 }
-submitButton.ondblclick= function(){
-    body.style.backgroundColor= "white";
-}
 
 
 
